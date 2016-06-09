@@ -1,0 +1,6 @@
+data/
+build.sh
+run.sh
+push.sh
+.gitignore
+.git
