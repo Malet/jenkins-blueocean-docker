@@ -1,4 +1,4 @@
-FROM jenkinsci/blueocean
+FROM malet/blueocean
 USER root
 RUN DEBIAN_FRONTEND=noninteractive \
   apt-get update && \
